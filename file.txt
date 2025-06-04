@@ -1,3 +1,2 @@
 ﻿ this is person A line
-this is person B 
 this is person C
